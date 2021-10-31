@@ -6,8 +6,10 @@ mouse = Controller()
 while True:
     mouse.click(Button.left, 1)
     print('clicked')
-
     time.sleep(5)
+    print('clicked')
+    mouse.click(Button.left, 1)
+    time.sleep(30)
 
 # import torch
 # print(torch.cuda.is_available())
