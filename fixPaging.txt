@@ -1,0 +1,2 @@
+Link to issue: https://github.com/ultralytics/yolov3/issues/1643
+python fixNvPe.py --input D:\Documents\GitHub\seeHeads\venv\Lib\site-packages\torch\lib
